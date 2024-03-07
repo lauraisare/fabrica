@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Logicos\Desktop\VHDL\fabrica\simulation\qsim
+vfabrica
+Z1 !s100 Fof@:BCODAQ_=GKIYoOJM1
+Z2 IAkKz[Zimng]V:03bQEF_00
+Z3 VCoUSJ?;e8PN>1EQWPomTN2
+Z4 dC:\Users\Logicos\Desktop\VHDL\fabrica\simulation\qsim
+Z5 w1709241846
+Z6 8fabrica.vo
+Z7 Ffabrica.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|fabrica.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1709241847.054000
+Z12 !s107 fabrica.vo|
+!s101 -O0
+vfabrica_vlg_check_tst
+!i10b 1
+Z13 !s100 ^ID:bU]jY3CPVMkMjEWE@2
+Z14 I6b4?z`J78DnVcf[cZLRSK0
+Z15 VREbePzdB8o302Z[@`3X3K2
+R4
+Z16 w1709241845
+Z17 8Waveform.vwf.vt
+Z18 FWaveform.vwf.vt
+L0 59
+R8
+r1
+!s85 0
+31
+Z19 !s108 1709241847.116000
+Z20 !s107 Waveform.vwf.vt|
+Z21 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R10
+vfabrica_vlg_sample_tst
+!i10b 1
+Z22 !s100 ?R0enl6fSKA>zPcA6EZgU1
+Z23 I]LB[72QNOI1G4T_R6d=[b3
+Z24 VkBi^E5f1N:VJVMK]eGD6G3
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vfabrica_vlg_vec_tst
+!i10b 1
+!s100 dc<H^9dWPGC@zOcCB8;0@1
+IWmMTTKaCT19DO1Va_eMDP1
+Z25 V5mXBIbWZSAnS2ZjNloK`X0
+R4
+R16
+R17
+R18
+Z26 L0 208
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
